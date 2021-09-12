@@ -16,6 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/tdronkers04/tictactoe_module.git"
   },
+  "keywords": [
+    "game",
+    "tic tac toe"
+  ],
   "author": "Timothy Dronkers",
   "license": "ISC",
   "bugs": {

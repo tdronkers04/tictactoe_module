@@ -1,0 +1,30 @@
+{
+  "name": "tictactoe-cli-game",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "node-emoji": "1",
+    "readline-sync": "1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdronkers04/tictactoe_module.git"
+  },
+  "author": "Timothy Dronkers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdronkers04/tictactoe_module/issues"
+  },
+  "homepage": "https://github.com/tdronkers04/tictactoe_module#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6"
+  }
+}

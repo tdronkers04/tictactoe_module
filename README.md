@@ -1,7 +1,7 @@
 # Tic Tac Toe!
 ## a CLI App
 
-`npm i tic-tac-toe-cli-game`
+`npm i tictactoe-cli-game`
 
 I took an object-oriented design approach to implment the classic game using node.js and readline-sync. 
 

@@ -6,7 +6,7 @@
 
 ## Usage
 
-Create an new file in your root directory and paste in the following script:
+Create an new JavaScript file in your root directory and paste in the following script:
 
 ```javascript
 const TicTacToe = require('./node_modules/tictactoe-cli-game/index').TicTacToe;
@@ -14,7 +14,7 @@ let playTTT = new TicTacToe();
 playTTT.playMatch();
 ```
 
-run the script with 
+Run the script with the following terminal command:
 
 ```bash
 node [yourfilename].js

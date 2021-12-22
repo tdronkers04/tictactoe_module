@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "node-emoji": "1",
-    "readline-sync": "1"
+    "readline-sync": "1",
+    "tictactoe-cli-game": "^1.0.0"
   },
   "scripts": {},
   "repository": {

@@ -1,7 +1,26 @@
 # Tic Tac Toe!
-## a CLI App
+
+## Installation
 
 `npm i tictactoe-cli-game`
+
+## Usage
+
+Create an new file in your root directory and paste in the following script:
+
+```javascript
+const TicTacToe = require('./node_modules/tictactoe-cli-game/index').TicTacToe;
+let playTTT = new TicTacToe();
+playTTT.playMatch();
+```
+
+run the script with 
+
+```bash
+node [yourfilename].js
+```
+
+## Overview
 
 I took an object-oriented design approach to implment the classic game using node.js and readline-sync. 
 
